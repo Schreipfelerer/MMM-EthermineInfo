@@ -3,7 +3,7 @@ A <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a> module that 
 
 ## Installation
 1. Navigate into your MagicMirror's `modules` folder using `cd MagicMirror/modules/`
-2. Clone the module using `git clone https://github.com/Schreipfelerer/MMM-Ethermine_Info.git`.
+2. Clone the module using `git clone https://github.com/Schreipfelerer/MMM-EthermineInfo.git`.
 3. Add the module inside `config.js`
 
 ## Config
@@ -21,7 +21,7 @@ A <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a> module that 
 Here is an example of an entry in `config.js`
 ```
 {
-	module: "MMM-Ethermine_Info",
+	module: "MMM-EthermineInfo",
 	position: "bottom_right",
 	config: {
 		minerAdress: "YOUR ADRESS",
