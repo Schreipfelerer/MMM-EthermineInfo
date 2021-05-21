@@ -12,7 +12,7 @@ A <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a> module that 
 |---|---|
 |`minerAdress`|MANDATORY: The Etherium adress of the wallet the miner is mining to.<br>**Type:** `string`|
 |`updateInterval`|Frequency, in milliseconds, to update the module<br>**Type:** `number` <br> **Default** <i>1000</i>|
-|`fetchIntervall`|Frequency, in milliseconds, to fetch new data.<br>**Type:** `number` <br> **Default** <i>1200000</i>|
+|`fetchIntervall`|Frequency, in milliseconds, to fetch new data.<br>**Type:** `number` <br> **Default** <i>120000</i>|
 |`showHeader`|Specefies wether a header should be shown or not.<br>**Type:** `boolean`<br> **Default** <i>true</i> |
 |`headerText`|The Text which is shown in the header. You can use `%miner` to reference your minerAdress.<br> **Type** `string` <br> **Default** <i>Ethermine Stats for %miner</i> |
 |`fontSize`| Dimension of price text. You can specify pixel values, em values or keywords.<br> **Type:** `string` <br>**Options:** `xx-small`, `x-small`, `small`, `medium`, `large`, `x-large`, `xx-large` <br> **Default** <i>xx-large</i> |
