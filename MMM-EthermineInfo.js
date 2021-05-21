@@ -5,7 +5,7 @@ Module.register("MMM-EthermineInfo",{
     defaults: {
         minerAdress: undefined,
         updateInterval: 1000,
-        fetchIntervall: 1200000,
+        fetchIntervall: 120000,
         showHeader: true,
         headerText: "Ethermine Stats for %miner",
         fontSize: 'xx-large',
