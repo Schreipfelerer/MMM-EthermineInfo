@@ -40,7 +40,7 @@ This module uses the Ethermine <a href="https://ethermine.org/api/pool">API</a>.
 - The API is limited to 100 requests / 15 minutes / IP
 
 ## Feedback
-It's my first module here after that I built a MagicMirror. It also is the first Time i used javascript in gerneral.
+This is my first MagicMirror module. It is also the first time i used javascript in gerneral.
 <br>Since i dindt know where to start i used the <a href="https://github.com/matteodanelli/MMM-cryptocurrency">MMM-cryptocurrency</a> module as a guideline.
 <br>I am open to work on this project and to expand it to add other interesting features, and a bit of cool style too.
 <br>Leave me some feedback in the forum. Thank you!
